@@ -1,0 +1,16 @@
+{
+  "name": "phyjeeics-backend",
+  "version": "1.0.0",
+  "description": "backend for phyjeeics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YASHWANT NARAYAN",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
